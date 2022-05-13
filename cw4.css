@@ -3,4 +3,16 @@ p{text-align: justify;}
 .uwaga{background-color: #ff0;}
 
 h1 {border: 1em solid #00ff;}
-h3 {}
+h3 {border: 1em solid #00ff;}
+
+.karta{
+    border: 1px solid #cccc;
+    margin-bottom: 1em;
+}
+.info{
+    float: right;
+    padding: 0.5em;
+    margin: 0em;
+    background: #313daf;
+    color: #ffff;
+}
