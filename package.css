@@ -16,3 +16,15 @@ h3 {border: 1em solid #00ff;}
     background: #313daf;
     color: #ffff;
 }
+.przycisk{
+    border: 1px solid #313daf;
+    font-size: 0.8em;
+    padding: 0.2em;
+    border-radius: 5px;
+    background: #eeee;
+}
+
+.row img{
+    width: 100%;
+    height: auto;
+}
